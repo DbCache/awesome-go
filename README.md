@@ -35,6 +35,3 @@
   -  Convert curl commands to Go code in your browser
      
      https://github.com/mholt/curl-to-go
-  -  A command-line fuzzy finder
-     
-     https://github.com/junegunn/fzf
