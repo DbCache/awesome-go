@@ -1,4 +1,17 @@
   # Awesome Go
+  -  Simple ACID key-value database that supports transactions
+     
+     https://github.com/claygod/coffer
+  
+  -  Efficient key/value cache for gigabytes of data
+  
+     https://github.com/allegro/bigcache
+  -  Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
+
+     https://github.com/VictoriaMetrics/fastcache
+  -  Cache library with support for expirable Cache, LFU, LRU and ARC
+  
+     https://github.com/bluele/gcache
   -  A Distributed and High-Performance Monitoring System 
      
      https://github.com/didi/nightingale
