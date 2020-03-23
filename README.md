@@ -35,3 +35,20 @@
   -  Convert curl commands to Go code in your browser
      
      https://github.com/mholt/curl-to-go
+  -  Blazing fast, structured, leveled logging in Go.
+     
+     https://github.com/uber-go/zap
+  -  The fantastic ORM library for Golang, aims to be developer friendly.
+     
+     https://github.com/jinzhu/gorm
+  -  A standard library for microservices.
+     
+     https://github.com/go-kit/kit
+  -  Delve is a debugger for the Go programming language.
+     
+     https://github.com/go-delve/delve
+  -  Fast, Distributed Graph DB
+     
+     https://github.com/dgraph-io/dgraph
+  -  A high performance HTTP request router that scales well
+     https://github.com/julienschmidt/httprouter
